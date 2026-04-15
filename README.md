@@ -1,5 +1,4 @@
-<!-- GitAds Banner — Replace YOUR_GITADS_SNIPPET below with your actual GitAds code -->
-<!-- [![GitAds](https://images.gitads.dev/YOUR_REPO_ID)](https://tracking.gitads.dev/?repo=postgres-vs-mysql) -->
+<!-- GitAds-Verify: 61TRZUZYSEJMMFUBTMUIL9DRV3ESLVKW -->
 
 # PostgreSQL vs MySQL (2026)
 
