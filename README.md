@@ -2,6 +2,9 @@
 
 # PostgreSQL vs MySQL (2026)
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=atryx/postgres-vs-mysql@github)](https://gitads.dev/v1/ad-track?source=atryx/postgres-vs-mysql@github)
+
 > **The definitive comparison for developers choosing between PostgreSQL and MySQL in 2026.** Covers performance benchmarks, features, licensing, cloud costs, replication, JSON support, and when to use (or avoid) each database.
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
